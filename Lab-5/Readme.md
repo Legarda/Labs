@@ -20,5 +20,5 @@ REPO - змінна для зберігання назви Docker репозит
 
 Веб-сайт працює, адреса для переходу на сайт - http:/0.0.0.0/ Скрішоти сторінок сайту:
 
-![Image alt](https://github.com/legarda/labs/raw/main/lab-5/screenshot_1.jpg)
-![Image alt](https://github.com/legarda/labs/raw/main/lab-5/screenshot_2.jpg)
+![Image alt](https://github.com/Legarda/Labs/raw/main/Lab-5/screenshot_1.jpg)
+![Image alt](https://github.com/Legarda/Labs/raw/main/Lab-5/screenshot_2.jpg)
