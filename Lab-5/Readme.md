@@ -19,3 +19,6 @@ REPO - змінна для зберігання назви Docker репозит
 Переходжу до Docker-compose, перевірив чи встановлений "Docker-compose" та запустив його за допомогою команди "docker-compose -p lab5 up"
 
 Веб-сайт працює, адреса для переходу на сайт - http:/0.0.0.0/ Скрішоти сторінок сайту:
+
+![Image alt](https://github.com/legarda/labs/raw/main/lab-5/screenshot_1.jpg)
+![Image alt](https://github.com/legarda/labs/raw/main/lab-5/screenshot_2.jpg)
